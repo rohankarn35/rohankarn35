@@ -19,7 +19,7 @@
 
 - 💪🏼 Working on [AminalDesk](https://github.com/)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **AI/ML**
 
 - 😂 Func Fact **Bats are the only mammal that can actually fly.**
 
