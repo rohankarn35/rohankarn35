@@ -17,7 +17,6 @@
 
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=rohankarn35&theme=oldie&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
-- 💪🏼 Working on [MedSheet](https://github.com/rohankarn35/MedSheet)
 
 - 🌱 I’m currently learning **Flutter**
 
